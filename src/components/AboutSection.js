@@ -17,7 +17,7 @@ export default function AboutSection() {
             </div>
 
                 <Ptext className='para'>
-                My name is Moey, I'm a junior software developer, have a look at my work and leave
+                My name is Moey, I'm a junior software developer, have a look at my work
                 </Ptext>
                 <div className='aboutSection-buttons'>
                 <a className='sml' href="/projects" >
