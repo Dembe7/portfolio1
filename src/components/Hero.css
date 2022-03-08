@@ -1,0 +1,41 @@
+.img {
+    text-align: center;
+}
+
+.hero {
+    height: 70vh;
+    min-height: 100px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+}
+
+/* .container2 {
+    height: 200px;
+} */
+
+.heading {
+    font-size: 2rem;
+    margin-bottom: 0rem;
+    position: relative;
+    color: aliceblue;
+}
+
+span {
+    display: inline-block;
+    width: 100%;
+}
+
+.img {
+    max-width: 900px;
+    width: 78%;
+    height: 500px;
+    margin: 0 auto;
+    border: 2px solid whitesmoke;
+}
+
+.hero_info {
+    margin-top: -10rem;
+    color: aliceblue;
+}

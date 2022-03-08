@@ -1,0 +1,60 @@
+
+
+.AboutSection {
+    padding: 10rem;
+}
+
+.container3 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    color: #fff;
+
+
+}
+
+.aboutSection-left
+/* .aboutSection-right { */
+    {
+    /* flex: 1; */
+
+}
+
+.section-title {
+    text-align: left;
+}
+
+.para {
+    margin-top: 2rem;
+    margin-left: 0%;
+    color: #fff;
+    position: absolute;
+    left: 0%;
+}
+
+.aboutSection-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.6rem;
+    padding-top: 1rem;
+}
+
+.aboutSection-right {
+    position: absolute;
+    right: 5rem;
+}
+
+
+.bigtitle {
+    font-size: 45px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+}
+
+.img {
+    border: 1px solid white;
+}
+
